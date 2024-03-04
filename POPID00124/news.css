@@ -1,0 +1,15 @@
+.outer{
+    width: 900px;
+    height: 450px;
+    border: 3px solid;
+    padding: 5px;
+    margin: 20px;
+    
+}
+.img{
+    padding: 6px;
+    float: left
+}
+#head{
+    margin: 10px;
+}

@@ -1,0 +1,49 @@
+.container-fluid{
+    background-color: rgb(91, 69, 218);
+}
+
+
+
+.col-1{
+    background-color: blue;
+    height: 55px;
+}
+.col-4{
+    background-color: rgb(255, 0, 0);
+    height: 55px;
+}
+.col-7{
+    background-color: rgb(0, 255, 42);
+    height: 55px;
+}
+
+.navibar ul li{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    display:inline-block;
+    margin: 20px;
+}
+
+.start{
+    height: 400px;
+    background-color: brown;
+}
+.col{
+    height: 100px;
+    background-color: chocolate;
+
+}
+.mario{
+    height: 350px;
+    width: 300px;
+}
+.run{
+    height: 100px;
+    width: 960px;
+}
+svg{
+    height: 40px;
+    width: 40px;
+}

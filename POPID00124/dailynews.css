@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    background-color: rgb(250, 250, 237);
+}
+.head{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    background-color: rgb(235, 226, 215);
+    position: fixed;
+    top: 0;
+    
+}
+.subhead{
+    
+    width: 100%;
+    height: 30px;
+    background-color: rgb(202, 228, 251);
+    display: inline-block;
+    color: rgb(254, 84, 84);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: sticky;
+    top: 100px;
+    border-radius: 10px;
+    
+    
+}
+.firstpage{
+    margin-top: 100px;
+    width: 100%;
+    height: 85vh;  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.img{
+    float: left;
+    padding: 6px;
+    width: 350px;
+    height: 300px;
+}
+.content{
+    width: 450px;
+    height: 600px;
+    text-align: justify;
+}
+.secondpage{
+    margin-top: 30px;
+    width: 100%;
+    height: 85vh;  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#head{
+    text-decoration: none;
+    color: black;
+}
+
+.paytm{
+    font-weight: bold;
+}

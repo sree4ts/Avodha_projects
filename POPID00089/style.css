@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(190, 131, 250);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background-color: rgb(195, 243, 227);
+    max-width: 400px;
+    margin: auto;
+    border: 1px solid;
+    padding: 10px;
+}
+
+h1 {
+    color: blue;
+}
+
+#sub {
+    background-image: linear-gradient(to right, #3ec7e0, #526bf4);
+    color: rgb(23, 23, 23);
+    height: 25px;
+    width: 100px;
+    border: 1px solid;
+}
+
+#sub:hover {
+
+    background-image: linear-gradient(to right, #e052a0, #f15c41);
+    color: white;
+}
+
+input {
+    cursor: pointer;
+}
+
+.dropdown {
+    border: none;
+    
+    display: inline-block;
+}
+
+
