@@ -1,0 +1,37 @@
+
+    
+ .login{ 
+display: inline-block;
+outline: 0;
+border: 0;
+background-image: linear-gradient(to right,#e052a0,#f15c41);
+cursor: pointer;
+border-radius: 2px;
+color: #fff;
+font-weight: 500;
+text-align: center;
+text-transform: uppercase;
+height: 36px;
+line-height: 36px;
+padding: 0 10px;
+font-size: 14px;
+}
+
+button:hover {
+    background-image: linear-gradient(to right,#3ec7e0,#526bf4);
+} 
+
+
+ #box{
+  width: 200px;
+  height: 200px;
+  border: 1px solid;
+  padding-top: 30px;
+  padding-left: 20px;
+   
+}
+#main{
+  display: flex;
+  justify-content: center;
+  
+}
