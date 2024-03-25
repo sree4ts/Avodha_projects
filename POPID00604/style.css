@@ -27,7 +27,8 @@ button:hover {
   height: 200px;
   border: 1px solid;
   padding-top: 30px;
-  padding-left: 20px;
+  /* padding-left: 20px; */
+  text-align: center;
    
 }
 #main{
