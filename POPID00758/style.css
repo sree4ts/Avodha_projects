@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(190, 131, 250);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.survey {
+    background-color: rgb(94, 247, 196);
+    max-width: 400px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+
+
+
+h1 {
+    color: rgb(55, 55, 246);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ .sub {
+    background-image: linear-gradient(to right, #3ec7e0, #526bf4);
+    color: rgb(23, 23, 23);
+    /* height: 25px; */
+    width: 100px;
+    border: 1px solid;
+    border-radius: 30px;
+}
+
+.sub:hover {
+
+    background-image: linear-gradient(to right, #e052a0, #f15c41);
+    color: white;
+} 
+
+.sub1 {
+  background-image: linear-gradient(to right,);
+  color: rgb(23, 23, 23);
+  /* height: 25px; */
+  width: 100px;
+  border: 1px solid;
+  border-radius: 30px;
+}
+
+.sub1:hover {
+
+  background-image: linear-gradient(to right, #e052a0, #f15c41);
+  color: white;
+} 
+
+
+
+
+input {
+    cursor: pointer;
+}
+
+.dropdown {
+    border: none;
+    
+    display: inline-block;
+}
+
+
